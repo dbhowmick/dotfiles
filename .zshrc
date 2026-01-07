@@ -117,3 +117,5 @@ autoload -Uz compinit && compinit
 
 export PATH=$HOME/.local/bin:/opt/nvim-0.11.5/bin:$PATH
 alias vim='nvim'
+alias v='nvim'
+alias nv='nvim'
